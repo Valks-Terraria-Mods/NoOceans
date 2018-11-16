@@ -1,3 +1,4 @@
 author = valkyrienyanko
-version = 1.0
+version = 1.0.1
 displayName = No Oceans
+homepage = https://discord.gg/thMupbv

@@ -1,1 +1,1 @@
-Replaces oceans with desert biome.
+The oceans are no longer generated, instead all that remains is desert biome. (The oceans are desert biomes.)
