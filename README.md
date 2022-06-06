@@ -6,3 +6,5 @@ public override void ModifyWorldGenTasks(List<GenPass> tasks, ref float totalWei
     tasks.RemoveAll(x => x.Name.Equals("Beaches"));
 }
 ```
+
+I will not be updating this mod to 1.4.
